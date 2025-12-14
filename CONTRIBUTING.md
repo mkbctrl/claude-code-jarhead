@@ -1,4 +1,4 @@
-# Contributing to Claude Code Boycott Plugin
+# Contributing to Claude Code Jarhead Plugin
 
 Thank you for your interest in contributing to this project!
 
@@ -6,8 +6,8 @@ Thank you for your interest in contributing to this project!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mkbctrl/claude-code-boycott.git
-   cd claude-code-boycott
+   git clone https://github.com/mkbctrl/claude-code-jarhead.git
+   cd claude-code-jarhead
    ```
 
 2. Install dependencies:
