@@ -1,4 +1,4 @@
-# Claude Code Boycott Plugin
+# Claude Code Jarhead Plugin
 
 A marketplace plugin for Claude Code.
 
