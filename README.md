@@ -1,1 +1,1 @@
-# claude-code-boycott
+# claude-code-jarhead
