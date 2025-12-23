@@ -1,0 +1,19 @@
+{
+  "name": "claude-code-boycott",
+  "version": "0.1.0",
+  "description": "A Claude Code marketplace plugin",
+  "author": "Mikołaj Koropecki",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "engines": {
+    "claude-code": ">=1.0.0"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkbctrl/claude-code-boycott"
+  }
+}
